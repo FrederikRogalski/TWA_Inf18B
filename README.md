@@ -1,9 +1,6 @@
 Vllt läd hier jemand die Infos zum Projekt rein
 z.B.: Email Dozentin: ruth.heine@mosbach.dhbw.de
 
-
-Abgabe TWA:
-ruth.heine@mosbach.dhbw.de
 Manuskript
   - tex-datei
   - bib-datei

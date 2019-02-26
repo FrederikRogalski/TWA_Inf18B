@@ -1,15 +1,15 @@
 Vllt läd hier jemand die Infos zum Projekt rein
 z.B.: Email Dozentin: ruth.heine@mosbach.dhbw.de
 
-Manuskript
+Manuskript:
   - tex-datei
   - bib-datei
   - pdf
-Dateinamen
-Quellen (mind)
+- Dateinamen
+- Quellen (mind):
 - 1 Buch
 - 1 Zeitschriftenartikel
 - 1 Internetquelle
-Zertifikat WissBaseII jeder!
+- Zertifikat WissBaseII jeder!
 
 !!!!!!!!!!!!!!!!!!   24.3.    !!!!!!!!!!!!!!!!!!

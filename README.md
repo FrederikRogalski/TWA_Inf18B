@@ -6,10 +6,10 @@ Abgegeben werden muss:
 - pdf
 - Dateinamen (sollte eindeutig sein)
 
-- Quellen (mind.):
+Quellen (mind.):
 - 1 Buch
 - 1 Zeitschriftenartikel
 - 1 Internetquelle
 - Zertifikat WissBase II jeder!
 
-!!!!!!!!!!!!!!!!!!   24.3. Abgabe   !!!!!!!!!!!!!!!!!!
+#### 24.3. Abgabe

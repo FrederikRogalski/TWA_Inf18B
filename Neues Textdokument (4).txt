@@ -1,0 +1,28 @@
+Abgabe:
+ruth.heine@mosbach.dhbw.de
+
+Manuskript:
+	Techdatei
+	.Bib
+	.pdf
+
+Qellen mind.
+	1 Buch
+	1 Zeitschriften Artikel
+	1 Internet Quelle
+
+Titel
+Autoren
+Zusammenfassung / Abstract (Englisch)
+Einleitung ICH (Studentengeschichte Findungsphase)
+Versuch ICH (Schoko fallen lassen hat, Wasser Versuch selbst)
+Ergebnisse
+Interpretation
+Diskussion
+Fazit
+
+Keine Liste von Zutaten, Aber eine Beschreibung im Flieﬂtext
+
+
+
+Zertificat WissBase II

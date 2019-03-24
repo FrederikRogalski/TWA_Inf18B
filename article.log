@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.1.28)  24 MAR 2019 14:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.1.28)  24 MAR 2019 14:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -306,7 +306,11 @@ Package: booktabs 2016/04/27 v1.618033 publication quality tables
 \@lastruleclass=\count105
 \@thisrulewidth=\dimen129
 )
-(./article.aux)
+(./article.aux
+
+LaTeX Warning: Label `impj' multiply defined.
+
+)
 \openout1 = `article.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
@@ -328,8 +332,7 @@ Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box28
 Package hyperref Info: Link coloring OFF on input line 12.
-
-(/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
 (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
@@ -393,14 +396,14 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language append on input line 18.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language append on input line 18.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 21.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 21.
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language append on input line 23.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language append on input line 23.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 29.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 29.
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language append on input line 70.
 Package babel Info: Redefining ngerman shorthand "~
@@ -418,135 +421,117 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language append on input line 70.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language append on input line 72.
+(babel)             in language append on input line 74.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language append on input line 72.
-
-Underfull \hbox (badness 10000) in paragraph at lines 73--81
-
- []
-
+(babel)             in language append on input line 74.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language append on input line 75.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language append on input line 75.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language append on input line 77.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language append on input line 77.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language append on input line 77.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language append on input line 77.
+ [2]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language append on input line 77.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language append on input line 77.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language append on input line 79.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language append on input line 79.
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language append on input line 81.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language append on input line 81.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language append on input line 81.
+(babel)             in language append on input line 83.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language append on input line 81.
-[2]
+(babel)             in language append on input line 83.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language append on input line 81.
+(babel)             in language append on input line 83.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language append on input line 81.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language append on input line 81.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language append on input line 81.
+(babel)             in language append on input line 83.
  [3]
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language append on input line 83.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language append on input line 83.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language append on input line 84.
+(babel)             in language append on input line 85.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language append on input line 84.
+(babel)             in language append on input line 85.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 107.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language append on input line 86.
+(babel)             in language append on input line 107.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language append on input line 86.
+(babel)             in language append on input line 107.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language append on input line 88.
+(babel)             in language append on input line 107.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language append on input line 88.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language append on input line 90.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language append on input line 90.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language append on input line 92.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language append on input line 92.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language append on input line 92.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language append on input line 92.
+(babel)             in language append on input line 107.
  [4]
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language append on input line 92.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language append on input line 92.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language append on input line 94.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language append on input line 94.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language append on input line 96.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language append on input line 96.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language append on input line 122.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language append on input line 122.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language append on input line 122.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language append on input line 122.
- [5pdfTeX warning (ext4): destination with the same identifier (name{cite.impj}
-) has been already used, duplicate ignored
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 107.
 
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.122 \end{enumerate}
-                     ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 123.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language append on input line 123.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language append on input line 123.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language append on input line 123.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language append on input line 123.
- [6]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 123.
- (./article.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 123.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 123.
-Package rerunfilecheck Info: File `article.out' has not changed.
-(rerunfilecheck)             Checksum: 8F19D8EEFD5B5F31A8A7925FD56CB9A9;767.
+(./article.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 107.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 107.
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+Package rerunfilecheck Warning: File `article.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 123.
+Package rerunfilecheck Info: Checksums for `article.out':
+(rerunfilecheck)             Before: 8F19D8EEFD5B5F31A8A7925FD56CB9A9;767
+(rerunfilecheck)             After:  2C4F7EE8BD3B5ADB176780C305997849;658.
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 107.
  ) 
 Here is how much of TeX's memory you used:
- 8894 strings out of 492649
- 146487 string characters out of 6129622
+ 8891 strings out of 492649
+ 146477 string characters out of 6129622
  343530 words of memory out of 5000000
- 12674 multiletter control sequences out of 15000+600000
- 14893 words of font info for 36 fonts, out of 8000000 for 9000
+ 12673 multiletter control sequences out of 15000+600000
+ 14129 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,9n,51p,9113b,415s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
-</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><
-/usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></u
-sr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr
-/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/lo
-cal/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/loca
-l/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/
-texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/te
-xlive/2018/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texl
-ive/2018/texmf-dist/fonts/type1/public/cm-super/sfsx1440.pfb></usr/local/texliv
-e/2018/texmf-dist/fonts/type1/public/cm-super/sfsx1728.pfb></usr/local/texlive/
-2018/texmf-dist/fonts/type1/public/cm-super/sfsx2488.pfb></usr/local/texlive/20
-18/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on article.pdf (6 pages, 180435 bytes).
+ 41i,9n,51p,9113b,340s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{section.10} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.9} has been referenced but does not exist, 
+replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.6.3} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.6.2} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.6.1} has been referenced but does not ex
+ist, replaced by a fixed one
+
+{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</
+usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></u
+sr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/
+local/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/lo
+cal/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/loca
+l/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/
+texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfsx1440.pfb></usr/local/te
+xlive/2018/texmf-dist/fonts/type1/public/cm-super/sfsx1728.pfb></usr/local/texl
+ive/2018/texmf-dist/fonts/type1/public/cm-super/sfsx2488.pfb></usr/local/texliv
+e/2018/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
+Output written on article.pdf (4 pages, 160723 bytes).
 PDF statistics:
- 152 PDF objects out of 1000 (max. 8388607)
- 130 compressed objects within 2 object streams
- 30 named destinations out of 1000 (max. 500000)
+ 134 PDF objects out of 1000 (max. 8388607)
+ 117 compressed objects within 2 object streams
+ 29 named destinations out of 1000 (max. 500000)
  105 words of extra memory for PDF output out of 10000 (max. 10000000)
 
